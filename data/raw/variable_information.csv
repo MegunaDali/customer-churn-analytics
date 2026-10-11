@@ -1,0 +1,15 @@
+name,role,type,demographic,description,units,missing_values
+Call  Failure,Feature,Integer,,,,no
+Complains,Feature,Binary,,,,no
+Subscription  Length,Feature,Integer,,,,no
+Charge  Amount,Feature,Integer,,,,no
+Seconds of Use,Feature,Integer,,,,no
+Frequency of use,Feature,Integer,,,,no
+Frequency of SMS,Feature,Integer,,,,no
+Distinct Called Numbers,Feature,Integer,,,,no
+Age Group,Feature,Integer,Age,,,no
+Tariff Plan,Feature,Integer,,,,no
+Status,Feature,Binary,,,,no
+Age,Feature,Integer,Age,,,no
+Customer Value,Feature,Continuous,,,,no
+Churn,Target,Binary,,,,no
